@@ -1,4 +1,4 @@
-## Shopify Variant & Link Build
+## Shopify Variant & ATC Link Generator
 
 *Simple python integrated with discord module to build shopify link and list variant of shopify product.*
 
