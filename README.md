@@ -11,3 +11,5 @@
 ## Configuration
 
 Replace *TOKEN = 'BOT-TOKEN-HERE'* to your bot token and ready to go.
+
+Discord: *keem#0815*
